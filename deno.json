@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "strict": false
+    },
+    "imports": {
+        "@hono/hono": "jsr:@hono/hono@^4.10.4"
+    }
+}
